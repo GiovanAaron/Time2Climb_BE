@@ -1,4 +1,4 @@
-[Redirect To Time2Climb FrontEnd](https://github.com/GiovanAaron/Time2Climb_FE)
+[Redirect to Time2Climb FrontEnd](https://github.com/GiovanAaron/Time2Climb_FE)
 
 # Time2Climb_BE
 
